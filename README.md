@@ -51,9 +51,9 @@ where WeightedGT is the noise added shadow image
 We also experimented with DDIM models for Shadow removal task. DDIM's inferences times were the fastest like its claims. The code for executing DDIM implementation is in the DDIM.py file
 
 ## Report and Presentation slides
-The report for the project is attached here [Report](https://github.com/neeleshverma/Shadow_Removal/blob/main/Project_Report.pdf).
+The report for the project is attached here [Report](https://github.com/neeleshverma/Shadow_Removal/blob/main/reports/ShadowRemoval_Report.pdf).
 
-The presentation slides of the project is attached here [PPT](https://github.com/neeleshverma/Shadow_Removal/blob/main/Final_Presentation.pptx.pdf).
+The presentation slides of the project is attached here [PPT](https://github.com/neeleshverma/Shadow_Removal/blob/main/reports/Final_Presentation.pdf).
 
 
 ## References
